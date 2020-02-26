@@ -1,16 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # What is this?
 
-This is the same [project of the seccion 5 and 9](https://github.com/miguelseguramx/administrador-veterinario) but it is created with redux instead of class components or hooks maybe later they'll be differentiated by the styles I add on my own
-
-This is the excercise realized as result of the seccion 17 of [this course](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/)
-
-The code of the class is in the commit with the tag of "course-version", the rest of them are features I add to practice my knowledge in react and improve my code as well as to create a more advanced and personalized version of the project
-
 It's an appointment manager for a veterinarian
-
-**The goal is that at some point my project is miles away from what I do in the course and the course has only given me the essence of the project**
 
 ## Available Scripts
 
